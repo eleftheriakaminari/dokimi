@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Contactsdokimi {
+public class Contacts {
    
 
 
